@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="body_offsetX">32</integer>
+    <integer name="body_offsetY">36</integer>
+    <integer name="eyes_offsetX">76</integer>
+    <integer name="eyes_offsetY">75</integer>
+    <integer name="mouth_offsetX">78</integer>
+    <integer name="mouth_offsetY">125</integer>
+    <integer name="glasses_offsetX">61</integer>
+    <integer name="glasses_offsetY">70</integer>
+    <integer name="stache_offsetX">48</integer>
+    <integer name="stache_offsetY">55</integer>
+</resources>

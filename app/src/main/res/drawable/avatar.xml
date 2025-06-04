@@ -1,0 +1,10 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/avatar_body_0" />
+    <item android:drawable="@drawable/avatar_hoodie" />
+    <item android:drawable="@drawable/avatar_eyes_6" />
+    <item android:drawable="@drawable/avatar_mouth_grimace" />
+    <item android:drawable="@drawable/avatar_moustache_fancy"/>
+    <item android:drawable="@drawable/avatar_lennon_glasses" />
+    <item android:drawable="@drawable/avatar_short_flat" />
+<!--    <item android:drawable="@drawable/avatar_hat" />-->
+</layer-list>
